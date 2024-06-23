@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://github.com/keqing-profile/keqing-profile/blob/main/avatar.png" height="150" width="150" style="border-radius: 50%">
   <h2>Hello World! 🌍 I'm Keqing</h2>
   <p>A passionate tech enthusiast with expertise in development, cloud computing, and more!</p>
   <img src="https://github.com/keqing-profile/keqing-profile/blob/main/programming.gif" width="200" height="200">
@@ -54,15 +53,11 @@ Hello! I'm Keqing, a tech enthusiast dedicated to exploring and mastering variou
 
 # Projects & Contributions 🚀
 
-### Featured Projects 🌟
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keqing-profile&repo=awesome-project&theme=dark&show_icons=true&hide_border=true)](https://github.com/keqing-profile/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=keqing-profile&repo=cloud-app&theme=dark&show_icons=true&hide_border=true)](https://github.com/keqing-profile/cloud-app)
-
 ### GitHub Stats 📈
-![](https://github-readme-stats.vercel.app/api?username=keqing-profile&theme=dark&show_icons=true&hide_title=true&hide_border=true) <br>
+![](https://github-readme-stats.vercel.app/api?username=keqing-qixing&theme=dark&show_icons=true&hide_title=true&hide_border=true) <br>
 
 ### Top Languages 🌐
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keqing-profile&layout=compact&theme=dark&show_icons=true&hide_title=true&hide_border=true) <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=keqing-qixing&layout=compact&theme=dark&show_icons=true&hide_title=true&hide_border=true) <br>
 
 <h2>Views Count 🎉</h2>
 
